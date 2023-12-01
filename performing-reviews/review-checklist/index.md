@@ -5,7 +5,7 @@
 - Verify the submitted name and subject matter are acceptable.
 - Download the ZIP.
 - Check all files for guideline violations.
-- Ensure the `readme` is clear ([only a requirement for services](https://make.wordpress.org/plugins/handbook/review/checklist/#readme)).
+- Ensure the `readme` is clear ([only a requirement for services](https://make.wordpress.org/plugins/handbook/performing-reviews/review-checklist/#readme)).
 - Test in a secure environment.
 - Detail any issues found and email the developer from HelpScout.
 - If no issues are found, approve the plugin.

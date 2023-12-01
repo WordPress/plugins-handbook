@@ -12,7 +12,7 @@ All plugin reviews take the same form.
 
 ## Start reviewing
 
-- [Using the Review Admin Tool](https://make.wordpress.org/plugins/handbook/review/admin-tool/)
-- [Review Checklist](https://make.wordpress.org/plugins/handbook/review/checklist/)
-- [Review Walkthrough](https://make.wordpress.org/plugins/handbook/review/walkthrough/)
-- [Security and Guideline Reports](https://make.wordpress.org/plugins/handbook/reviews/guidelines/)
+- [Using the Review Admin Tool](https://make.wordpress.org/plugins/handbook/performing-reviews/review-admin-tool/)
+- [Review Checklist](https://make.wordpress.org/plugins/handbook/performing-reviews/review-checklist/)
+- [Review Walkthrough](https://make.wordpress.org/plugins/handbook/performing-reviews/review-walkthrough/)
+- [Security and Guideline Reports](https://make.wordpress.org/plugins/handbook/performing-reviews/security-and-guideline-violation-reports/)

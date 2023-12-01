@@ -4,8 +4,8 @@ Reviews are done via the [Dashboard on the directory](https://wordpress.org/plug
 
 **Important Links**
 
-* [Review Checklist](https://make.wordpress.org/plugins/handbook/review/checklist/)
-* [Review Walkthrough](https://make.wordpress.org/plugins/handbook/review/walkthrough/)
+- [Review Checklist](https://make.wordpress.org/plugins/handbook/performing-reviews/review-checklist/)
+- [Review Walkthrough](https://make.wordpress.org/plugins/handbook/performing-reviews/review-walkthrough/)
 
 All new plugins have a status of 'draft'. This means they have not yet been reviewed. To view all newly submitted plugins, go to **My Plugins** and click on **Pending Initial Review**:
 
@@ -17,7 +17,7 @@ Click on the post to edit it. You should chose to open in a new window.
 
 On the post edit page, you will see the **Plugin Review Tools**. Most important at this stage is the ZIP file. Use that to download the new ZIP for your review.
 
-Perform the steps on the [Review Walkthrough](https://make.wordpress.org/plugins/handbook/review/walkthrough/) and [Review Checklist](https://make.wordpress.org/plugins/handbook/review/checklist/).
+Perform the steps on the [Review Walkthrough](https://make.wordpress.org/plugins/handbook/performing-reviews/review-walkthrough/) and [Review Checklist](https://make.wordpress.org/plugins/handbook/performing-reviews/review-checklist/).
 
 If a plugin shows that it has comments, that means a non-admin has performed a review, but does not have permissions to email the developer and move the post into pending status.
 
@@ -27,11 +27,11 @@ If you do not have the ability to approve plugins, once you've reviewed a plugin
 
 Document the issues found. For example, a good note would be as follows:
 
-* Calls `wp-load.php` on multiple pages.
-* Saves files to plugin directory.
-* Includes own jQuery.
-* Calls bootstrap CSS externally from a CDN.
-* Author has `wordpress` in their domain name.
+- Calls `wp-load.php` on multiple pages.
+- Saves files to plugin directory.
+- Includes own jQuery.
+- Calls bootstrap CSS externally from a CDN.
+- Author has `wordpress` in their domain name.
 
 An administrator will then take this information and send an email to the plugin author, explaining what to fix and why.
 
@@ -55,9 +55,9 @@ This will **automatically** email the developer. You need do nothing more.
 
 Most plugins will not be rejected. If a plugin must be rejected, leave an internal note explaining why. Example entries:
 
-* Rejected per author request.
-* Duplicate submission.
-* Author banned from directory.
+- Rejected per author request.
+- Duplicate submission.
+- Author banned from directory.
 
 Very rarely will those cases occur. Once the plugin is rejected, use the **Contact plugin author** button to email them and explain why it was rejected.
 
