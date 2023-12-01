@@ -1,79 +1,79 @@
 {
   "index": {
-    "title": "Plugins Handbook",
-    "slug": "handbook",
-    "markdown_source": "https:\/\/github.com\/javiercasares\/plugins-handbook\/blob\/main\/index.md",
+    "title": "Plugin Reviewer's Handbook",
+    "slug": null,
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/index.md",
     "parent": null,
     "order": -1
   },
-  "get-involved": {
-    "title": "Get Involved",
-    "slug": "get-involved",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/get-involved\/index.md",
-    "parent": null,
-    "order": 1
-  },
-  "team": {
+  "the-team": {
     "title": "The Team",
-    "slug": "team",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/get-involved\/team.md",
-    "parent": "get-involved",
+    "slug": "the-team",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/the-team\/index.md",
+    "parent": null,
     "order": 1
   },
   "expectations": {
     "title": "Expectations",
     "slug": "expectations",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/get-involved\/expectations.md",
-    "parent": "get-involved",
-    "order": 2
-  },
-  "join": {
-    "title": "Join the Plugin Review Team",
-    "slug": "join",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/get-involved\/join.md",
-    "parent": "get-involved",
-    "order": 3
-  },
-  "review": {
-    "title": "Performing Reviews",
-    "slug": "review",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/review\/index.md",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/expectations\/index.md",
     "parent": null,
     "order": 2
   },
-  "admin-tool": {
-    "title": "Using the Review Admin Tool",
-    "slug": "admin-tool",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/review\/admin-tool.md",
-    "parent": "review",
-    "order": 1
-  },
-  "checklist": {
-    "title": "Review Checklist",
-    "slug": "checklist",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/review\/checklist.md",
-    "parent": "review",
-    "order": 2
-  },
-  "walkthrough": {
-    "title": "Review Walkthrough",
-    "slug": "walkthrough",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/review\/walkthrough.md",
-    "parent": "review",
+  "get-involved": {
+    "title": "Get Involved",
+    "slug": "get-involved",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/get-involved\/index.md",
+    "parent": null,
     "order": 3
   },
-  "guidelines": {
-    "title": "Security and Guideline Violation Reports",
-    "slug": "guidelines",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/review\/guidelines.md",
-    "parent": "guidelines",
+  "performing-reviews": {
+    "title": "Performing Reviews",
+    "slug": "performing-reviews",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/performing-reviews\/index.md",
+    "parent": null,
     "order": 4
   },
-  "directory": {
-    "title": "Directory Maintenance",
-    "slug": "directory",
-    "markdown_source": "https:\/\/github.com\/wordpress\/hosting-handbook\/blob\/main\/directory\/index.md",
-    "parent": null,
+  "review-admin-tool": {
+    "title": "Using the Review Admin Tool",
+    "slug": "review-admin-tool",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/performing-reviews\/review-admin-tool\/index.md",
+    "parent": "performing-reviews",
+    "order": 1
+  },
+  "review-checklist": {
+    "title": "Review Checklist",
+    "slug": "review-checklist",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/performing-reviews\/review-checklist\/index.md",
+    "parent": "performing-reviews",
+    "order": 2
+  },
+  "review-walkthrough": {
+    "title": "Review Walkthrough",
+    "slug": "review-walkthrough",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/performing-reviews\/review-walkthrough\/index.md",
+    "parent": "performing-reviews",
     "order": 3
+  },
+  "security-and-guideline-violation-reports": {
+    "title": "Security and Guideline Violation Reports",
+    "slug": "security-and-guideline-violation-reports",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/performing-reviews\/security-and-guideline-violation-reports\/index.md",
+    "parent": "performing-reviews",
+    "order": 4
+  },
+  "directory-maintenance": {
+    "title": "Directory Maintenance",
+    "slug": "directory-maintenance",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/directory-maintenance\/index.md",
+    "parent": null,
+    "order": 5
+  },
+  "apply": {
+    "title": "Join the Plugin Review Team",
+    "slug": "apply",
+    "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/apply\/index.md",
+    "parent": null,
+    "order": 6
   }
 }
