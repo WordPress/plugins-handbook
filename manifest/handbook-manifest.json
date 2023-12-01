@@ -34,28 +34,28 @@
     "parent": null,
     "order": 4
   },
-  "review-admin-tool": {
+  "performing-reviews\/review-admin-tool": {
     "title": "Using the Review Admin Tool",
     "slug": "review-admin-tool",
     "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/performing-reviews\/review-admin-tool\/index.md",
     "parent": "performing-reviews",
     "order": 1
   },
-  "review-checklist": {
+  "performing-reviews\/review-checklist": {
     "title": "Review Checklist",
     "slug": "review-checklist",
     "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/performing-reviews\/review-checklist\/index.md",
     "parent": "performing-reviews",
     "order": 2
   },
-  "review-walkthrough": {
+  "performing-reviews\/review-walkthrough": {
     "title": "Review Walkthrough",
     "slug": "review-walkthrough",
     "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/performing-reviews\/review-walkthrough\/index.md",
     "parent": "performing-reviews",
     "order": 3
   },
-  "security-and-guideline-violation-reports": {
+  "performing-reviews\/security-and-guideline-violation-reports": {
     "title": "Security and Guideline Violation Reports",
     "slug": "security-and-guideline-violation-reports",
     "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/performing-reviews\/security-and-guideline-violation-reports\/index.md",
