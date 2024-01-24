@@ -2,9 +2,13 @@
 
 Maintaining the directory can be a full-time job. To achieve this, we rely on multiple tools to constantly scan, review, and monitor check-ins. There are some filters on SVN that prevent dangerous code from being committed to the repositories, the rest of the work is done by scanning.
 
+## Removing Plugins
+
 Plugins are removed for reasons other than security; however, that is the most recognized reason.
 
 Any time a plugin is closed, the developers must be contacted, and the action must be logged on the private P2. If a daily post exists, add a comment with the plugin link and why it was closed. Otherwise, create a new one.
+
+### Immediate Closure
 
 Plugins are closed immediately for the following situations:
 
@@ -26,15 +30,19 @@ Reasons to warn first:
 
 If a warning has been sent with no response, send a second warning or "FINAL WARNING" and explain the behavior must stop. Provide them with a realistic due date. For example, if a plugin has been warned multiple times to stop making needless commits and tag abuse, allow them 4-5 business days to comply.
 
+### By Request
+
 Verify the request came from either a developer with commit access or someone who works for the company. If so, reply with the Predefined email "Reply: Removal Request Completed".
 
 Otherwise, use "Reply: Removal Request – From email doesn't match that of the plugin owner".
+
+## Scanning the Repository
 
 This requires a local copy of the entire plugin directory, which can be downloaded with the [Plugin Directory Slurper](https://github.com/markjaquith/WordPress-Plugin-Directory-Slurper). Alternatively, you can use the unofficial [WordPress Directory Search](https://wpdirectory.net/).
 
 You can use `grep`, `ack`, or `ag` to scan the plugins repository. `grep` is available by default on Linux and OS X, but isn't as advanced as `ack` / `ag`. `ag` is a drop-in replacement for `ack`; it doesn't have all of `ack`'s advanced features, but is 5-10x faster.
 
-## Examples
+### Examples
 
 The following examples assume that you have a copy of all the plugins checked out into a folder called "plugins" and you wish to save your scans in a folder called "scans".
 
@@ -82,8 +90,10 @@ Matches Plugin Active installs
 
 This _will not_ clean up false positives, so before you assume that's your answer, do review the raw output to make sure you don't have incorrect data.
 
+## Tools and Resources
+
 - [Mark Jaquith's Plugin Directory Slurper](https://github.com/markjaquith/WordPress-Plugin-Directory-Slurper)
--  [Otto's Theme Directory Slurper](https://github.com/Otto42/WordPress-Theme-Directory-Slurper/) (Windows)
+- [Otto's Theme Directory Slurper](https://github.com/Otto42/WordPress-Theme-Directory-Slurper/) (Windows)
 - [WordPress Directory Search](https://wpdirectory.net/)
 - [Ack](https://beyondgrep.com/)
 - [ag](https://geoff.greer.fm/ag/)

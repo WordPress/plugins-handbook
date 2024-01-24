@@ -4,7 +4,9 @@ The Plugin Review Team is a group of volunteers who review and approve plugins n
 
 Our goal is to encourage and educate developers of all levels as to making the most secure and maintainable plugins available.
 
-We can be contacted via [Slack](https://make.wordpress.org/chat/) in [#pluginreview](https://wordpress.slack.com/archives/C1LBM36LC) or email at `plugins@wordpress.org`.
+We can be contacted via [Slack](https://make.wordpress.org/chat/) in [#pluginreview](https://wordpress.slack.com/messages/pluginreview/) or email at `plugins@wordpress.org`.
+
+## Who We Are
 
 The current team members are:
 
@@ -27,6 +29,9 @@ The current team members are:
 * [Evan Herman @eherman24](https://profiles.wordpress.org/eherman24/)
 * [Luke Carbis @lukecarbis](https://profiles.wordpress.org/lukecarbis/)
 * [Marta Torre @martatorre](https://profiles.wordpress.org/martatorre/)
+* [Justin Sainton @justinsainton](https://profiles.wordpress.org/justinsainton/)
+
+## Communication
 
 Public discussion on plugins happens on [Slack](https://make.wordpress.org/chat/) in [#pluginreview](https://wordpress.slack.com/archives/C1LBM36LC). Team members should keep an eye on the channel and respond to community members' questions as they arise.
 
@@ -38,4 +43,6 @@ A private P2 is used by the administrators to discuss sensitive information and 
 
 Emails are processed via Help Scout. Due to the sensitive nature of much of the information discussed, it also has limited access.
 
-Interested in getting involved with the team? Check out [the application process](https://make.wordpress.org/plugins/handbook/get-involved/join/).
+## Joining the Team
+
+Interested in getting involved with the team? Check out [the application process](https://make.wordpress.org/plugins/handbook/apply/).
