@@ -30,6 +30,7 @@ The current team members are:
 * [Luke Carbis @lukecarbis](https://profiles.wordpress.org/lukecarbis/)
 * [Marta Torre @martatorre](https://profiles.wordpress.org/martatorre/)
 * [Justin Sainton @justinsainton](https://profiles.wordpress.org/justinsainton/)
+* [Ivan Kristianto @ivankristianto](https://profiles.wordpress.org/ivankristianto/)
 
 ## Communication
 
