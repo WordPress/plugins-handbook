@@ -12,8 +12,8 @@ The current team members are:
 
 **Team Reps**
 
-* [Francisco Torres @frantorres](https://profiles.wordpress.org/frantorres/) – Team Rep
-* [Paco Marchante @pacomarchante](https://profiles.wordpress.org/pacomarchante/) – Team Rep
+* [Francisco Torres @frantorres](https://profiles.wordpress.org/frantorres/)
+* [Paco Marchante @pacomarchante](https://profiles.wordpress.org/pacomarchante/)
 
 **Senior Team**
 
@@ -32,7 +32,13 @@ The current team members are:
 * [Justin Sainton @justinsainton](https://profiles.wordpress.org/justinsainton/)
 * [Ivan Kristianto @ivankristianto](https://profiles.wordpress.org/ivankristianto/)
 * [Milana Cap @milana_cap](https://profiles.wordpress.org/milana_cap/)
+
+**Plugin Administration**
+
+Team members who focus on administrative tasks to ensure that the general functions of the team are maintained and run smoothly.
+
 * [Pooja Derashri @webtechpooja](https://profiles.wordpress.org/webtechpooja/)
+* [Jan Mc Kell @janmtm](https://profiles.wordpress.org/janmtm/)
 
 ## Communication
 
