@@ -29,7 +29,7 @@ The current team members are:
 * [Evan Herman @eherman24](https://profiles.wordpress.org/eherman24/)
 * [Luke Carbis @lukecarbis](https://profiles.wordpress.org/lukecarbis/)
 * [Marta Torre @martatorre](https://profiles.wordpress.org/martatorre/)
-* [Justin Sainton @justinsainton](https://profiles.wordpress.org/justinsainton/)
+* [Nilambar Sharma @rabmalin](https://profiles.wordpress.org/rabmalin/)
 * [Ivan Kristianto @ivankristianto](https://profiles.wordpress.org/ivankristianto/)
 * [Milana Cap @milana_cap](https://profiles.wordpress.org/milana_cap/)
 
