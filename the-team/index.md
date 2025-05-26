@@ -12,8 +12,8 @@ The current team members are:
 
 **Team Reps**
 
+* [David Pérez @davidperez](https://profiles.wordpress.org/davidperez/)
 * [Francisco Torres @frantorres](https://profiles.wordpress.org/frantorres/)
-* [Paco Marchante @pacomarchante](https://profiles.wordpress.org/pacomarchante/)
 
 **Senior Team**
 
@@ -23,22 +23,20 @@ The current team members are:
 
 **Plugin Reviewers**
 
-* [Barry Kooij @barrykooij](https://profiles.wordpress.org/barrykooij/)
-* [Gustavo Bordoni @bordoni](https://profiles.wordpress.org/bordoni/)
-* [David Pérez @davidperez](https://profiles.wordpress.org/davidperez/)
+* [Nilambar Sharma @rabmalin](https://profiles.wordpress.org/rabmalin/)
 * [Evan Herman @eherman24](https://profiles.wordpress.org/eherman24/)
 * [Luke Carbis @lukecarbis](https://profiles.wordpress.org/lukecarbis/)
 * [Marta Torre @martatorre](https://profiles.wordpress.org/martatorre/)
-* [Nilambar Sharma @rabmalin](https://profiles.wordpress.org/rabmalin/)
 * [Ivan Kristianto @ivankristianto](https://profiles.wordpress.org/ivankristianto/)
 * [Milana Cap @milana_cap](https://profiles.wordpress.org/milana_cap/)
+* [Paco Marchante @pacomarchante](https://profiles.wordpress.org/pacomarchante/)
+
 
 **Plugin Administration**
 
 Team members who focus on administrative tasks to ensure that the general functions of the team are maintained and run smoothly.
 
 * [Pooja Derashri @webtechpooja](https://profiles.wordpress.org/webtechpooja/)
-* [Jan Mc Kell @janmtm](https://profiles.wordpress.org/janmtm/)
 
 ## Communication
 
