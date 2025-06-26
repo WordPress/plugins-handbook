@@ -25,18 +25,13 @@ The current team members are:
 
 * [Nilambar Sharma @rabmalin](https://profiles.wordpress.org/rabmalin/)
 * [Evan Herman @eherman24](https://profiles.wordpress.org/eherman24/)
+* [Dharmesh Patel @dharm1025](https://profiles.wordpress.org/dharm1025/)
+* [Pooja Derashri @webtechpooja](https://profiles.wordpress.org/webtechpooja/)
 * [Luke Carbis @lukecarbis](https://profiles.wordpress.org/lukecarbis/)
 * [Marta Torre @martatorre](https://profiles.wordpress.org/martatorre/)
 * [Ivan Kristianto @ivankristianto](https://profiles.wordpress.org/ivankristianto/)
 * [Milana Cap @milana_cap](https://profiles.wordpress.org/milana_cap/)
 * [Paco Marchante @pacomarchante](https://profiles.wordpress.org/pacomarchante/)
-
-
-**Plugin Administration**
-
-Team members who focus on administrative tasks to ensure that the general functions of the team are maintained and run smoothly.
-
-* [Pooja Derashri @webtechpooja](https://profiles.wordpress.org/webtechpooja/)
 
 ## Communication
 
