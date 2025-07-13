@@ -1,6 +1,6 @@
 {
   "index": {
-    "title": "Plugin Reviewer's Handbook",
+    "title": "Plugins Handbook",
     "slug": null,
     "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/index.md",
     "parent": null,
@@ -70,7 +70,7 @@
     "order": 5
   },
   "apply": {
-    "title": "Join the Plugin Review Team",
+    "title": "Join the Plugins Team",
     "slug": "apply",
     "markdown_source": "https:\/\/github.com\/WordPress\/plugins-handbook\/blob\/main\/apply\/index.md",
     "parent": null,

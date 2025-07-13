@@ -1,6 +1,6 @@
 # The Team
 
-The Plugin Review Team is a group of volunteers who review and approve plugins newly submitted to be hosted on the official [WordPress.org Plugin Directory](https://wordpress.org/plugins/). The team maintains the Plugin Reviewer Handbook and the official tools for reviewing plugins. The team also is responsible for investigating guideline infringements and behavioral issues surrounding plugins and developers throughout the WordPress.org community (including support forums, reviews, and WordCamps).
+The Plugins Team is a group of volunteers who review and approve plugins newly submitted to be hosted on the official [WordPress.org Plugin Directory](https://wordpress.org/plugins/). The team maintains the Plugins Handbook and the official tools for reviewing plugins. The team also is responsible for investigating guideline infringements and behavioral issues surrounding plugins and developers throughout the WordPress.org community (including support forums, reviews, and WordCamps).
 
 Our goal is to encourage and educate developers of all levels as to making the most secure and maintainable plugins available.
 
