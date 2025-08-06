@@ -31,7 +31,6 @@ The current team members are:
 * [Marta Torre @martatorre](https://profiles.wordpress.org/martatorre/)
 * [Ivan Kristianto @ivankristianto](https://profiles.wordpress.org/ivankristianto/)
 * [Milana Cap @milana_cap](https://profiles.wordpress.org/milana_cap/)
-* [Paco Marchante @pacomarchante](https://profiles.wordpress.org/pacomarchante/)
 
 ## Communication
 
