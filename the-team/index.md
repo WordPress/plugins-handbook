@@ -23,7 +23,7 @@ The current team members are:
 
 **Plugin Reviewers**
 
-* [Nilambar Sharma @rabmalin](https://profiles.wordpress.org/rabmalin/)
+* [Nilambar Sharma @nilambar](https://profiles.wordpress.org/nilambar/)
 * [Evan Herman @eherman24](https://profiles.wordpress.org/eherman24/)
 * [Dharmesh Patel @dharm1025](https://profiles.wordpress.org/dharm1025/)
 * [Pooja Derashri @webtechpooja](https://profiles.wordpress.org/webtechpooja/)
