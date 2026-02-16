@@ -25,12 +25,7 @@ The current team members are:
 
 * [Nilambar Sharma @nilambar](https://profiles.wordpress.org/nilambar/)
 * [Evan Herman @eherman24](https://profiles.wordpress.org/eherman24/)
-* [Dharmesh Patel @dharm1025](https://profiles.wordpress.org/dharm1025/)
-* [Pooja Derashri @webtechpooja](https://profiles.wordpress.org/webtechpooja/)
 * [Luke Carbis @lukecarbis](https://profiles.wordpress.org/lukecarbis/)
-* [Marta Torre @martatorre](https://profiles.wordpress.org/martatorre/)
-* [Ivan Kristianto @ivankristianto](https://profiles.wordpress.org/ivankristianto/)
-* [Milana Cap @milana_cap](https://profiles.wordpress.org/milana_cap/)
 
 ## Communication
 
