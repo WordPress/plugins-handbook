@@ -24,6 +24,7 @@ The current team members are:
 **Plugin Reviewers**
 
 * [Nilambar Sharma @nilambar](https://profiles.wordpress.org/nilambar/)
+* [Ganga Kafle @kafleg](https://profiles.wordpress.org/kafleg/)
 * [Evan Herman @eherman24](https://profiles.wordpress.org/eherman24/)
 * [Luke Carbis @lukecarbis](https://profiles.wordpress.org/lukecarbis/)
 
