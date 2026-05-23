@@ -18,4 +18,4 @@ Remember to test vulnerabilities as both an admin **and** an author (or lower), 
 
 [Contributor Days](https://make.wordpress.org/community/handbook/meetup-organizer/event-formats/contributor-day/) at WordCamp are where a group of interested people can help review plugins. Alternately, we can go through the handbook and make edits and provide fixes.
 
-Interested in getting more deeply involved by joining the Plugin Review team? Check out [the application process](https://make.wordpress.org/plugins/handbook/apply/).
+Interested in getting more deeply involved by joining the Plugins team? Check out [the application process](https://make.wordpress.org/plugins/handbook/apply/).

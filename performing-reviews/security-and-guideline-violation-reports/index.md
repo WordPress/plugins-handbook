@@ -48,7 +48,7 @@ Examples of plugins that should not be closed without due consideration are: Jet
 
 Those plugins have all proven, over years, that they are responsive to fixes. In addition, closing them would send up a signal that there's a major security issue on tens of thousands of sites, putting the majority of WordPress sites at risk.
 
-Please check with a Plugin Review Admin if you're unsure. In general, most plugins will be closed.
+Please check with a Plugins Admin if you're unsure. In general, most plugins will be closed.
 
 ### Disable vs Close
 
