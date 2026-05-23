@@ -27,6 +27,9 @@ The current team members are:
 * [Ganga Kafle @kafleg](https://profiles.wordpress.org/kafleg/)
 * [Evan Herman @eherman24](https://profiles.wordpress.org/eherman24/)
 * [Luke Carbis @lukecarbis](https://profiles.wordpress.org/lukecarbis/)
+* [Marcel Tannich @mardroid](https://profiles.wordpress.org/mardroid/)
+* [Shiva Shanker @shivashankerbhatta](https://profiles.wordpress.org/shivashankerbhatta/)
+* [Shameem Reza @shameemreza](https://profiles.wordpress.org/shameemreza/)
 
 ## Communication
 
