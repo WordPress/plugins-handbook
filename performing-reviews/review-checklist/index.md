@@ -19,6 +19,7 @@ All plugins and developers are required to comply with all Plugin Directory Guid
 - The plugin cannot be a 100% copy of another plugin. Forks are permitted, however they must show significant improvements or changes to the original.
 - The plugin must be the developer's own work. Submission of another person's plugin is not permitted.
 - If included in the review, the plugin header image and logos must be family friendly and not be offensive.
+- The plugin logo and banner image must not include the WordPress logo.
 
 ### Subject Matter
 
