@@ -60,7 +60,7 @@ Check the name for foul language, version numbers, and length. We shouldn't allo
 
 Beyond the trademark issue, we don't permit plugins to use `wordpress`, `theme`, or `plugin` in them except for extreme cases. Check the name for `plugin` – very few plugins need their slug to have `plugin` in there. There are exceptions like `multisite-plugin-manager` but they're rare.
 
-To correct these, you can rename the slug. For example, if someone outside the Contact Form 7 project submits a plugin named `contact-form-7-my-cool-puppy` rename the slug to `cf7-my-cool-puppy` and continue on. If they've used `plugin` in the name and it's not a plugin that manages/handles plugins, remove the term. If they've used `wordpress` change it to `wp` and so on. Use your best judgement, and remember not to replace the first term(s) with other trademarked ones.
+To correct these, you can rename the slug. For example, if someone outside the Contact Form 7 project submits a plugin named `contact-form-7-my-cool-puppy` rename the slug to `cf7-my-cool-puppy` and continue on. If they've used `plugin` in the name and it's not a plugin that manages/handles plugins, remove the term. Use your best judgement, and remember not to replace the first term(s) with other trademarked ones.
 
 ## The Readme
 
